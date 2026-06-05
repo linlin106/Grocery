@@ -1,0 +1,3 @@
+﻿display_name: Literature Reading Coach
+short_description: 粗读、精读与复现论文的研究生文献教练。
+default_prompt: 请帮我粗读这篇论文，输出决策卡片，并在最后附一张可视化摘要图。
